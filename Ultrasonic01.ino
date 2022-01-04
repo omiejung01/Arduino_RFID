@@ -3,7 +3,7 @@ int inPin = 12;
 // internal arduino pin
 
 void setup() {
-Serial.begin(9600);
+Serial.begin(58400);
 }
 
 void loop()
